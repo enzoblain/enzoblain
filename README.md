@@ -17,12 +17,12 @@ Feel free to explore my repositories and connect with me for feedback, collabora
 ### Projects  
 Here are some of the projects I've been working on:  
 
-- **[Trading Algorithm with SMC Strategy](https://github.com/enzoblain/trading-algorithm)**: A Python-based algorithmic trading bot implementing the Smart Money Concept (SMC) strategy. It leverages libraries like **NumPy** and **Pandas** for data processing and analysis, enabling efficient trade execution based on market patterns. *(Work in progress 🚧: Currently optimizing performance and adding visualization features.)*
+- **[ClusterX](https://github.com/enzoblain/ClusterX)**: A Python-based algorithmic trading bot implementing the Smart Money Concept (SMC) strategy. It leverages libraries like **NumPy** and **Pandas** for data processing and analysis, enabling efficient trade execution based on market patterns. *(Work in progress 🚧: Currently optimizing performance and adding visualization features.)*
 
 Feel free to check them out and leave feedback!  
 
 ### Wiki Repository  
-📚 I maintain a **[Wiki Repository](#)** where I document and share the code and concepts I’ve learned.  
+📚 I maintain a **[Wiki Repository](https://github.com/enzoblain/Wiki)** where I document and share the code and concepts I’ve learned.  
 It includes:  
 - 🧮 **Sorting Algorithms**: Examples and explanations of common algorithms like QuickSort, MergeSort, and more.  
 - 🔢 **Data Structures**: Practical implementations of arrays, linked lists, stacks, queues, etc.  
