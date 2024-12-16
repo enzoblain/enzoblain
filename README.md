@@ -24,9 +24,9 @@ Feel free to check them out and leave feedback!
 ### Wiki Repository  
 📚 I maintain a **[Wiki Repository](https://github.com/enzoblain/Wiki)** where I document and share the code and concepts I’ve learned.  
 It includes:  
-- 🧮 **Sorting Algorithms**: Examples and explanations of common algorithms like QuickSort, MergeSort, and more.  
-- 🔢 **Data Structures**: Practical implementations of arrays, linked lists, stacks, queues, etc.  
-- 🧠 **Machine Learning Algorithms**: Beginner-friendly implementations of algorithms like Linear Regression, K-Nearest Neighbors (KNN), and Decision Trees.  
-- 🛠️ **Programming Concepts**: Snippets and notes on core programming concepts like recursion, dynamic programming, and OOP.  
+- 🔢 **Data Structures**: Practical implementations of arrays, linked lists, stacks, queues, and more.  
+- 🧠 **Machine Learning Algorithms**: Implementations of algorithms like Linear Regression, K-Nearest Neighbors (KNN), and Decision Trees.  
+- 🧮 **Algorithms**: Examples and explanations of common algorithms, including sorting and other fundamental algorithms.  
+- 🛠️ **Programming Concepts**: Snippets and notes on core programming concepts like recursion, dynamic programming, and OOP.
 
 Feel free to explore the repository to learn, get inspired, or give feedback! 🚀  
