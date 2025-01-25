@@ -18,7 +18,7 @@ Feel free to explore my repositories and connect with me for feedback, collabora
 Here are some of the projects I've been working on:  
 
 - **[ClusterX](https://github.com/enzoblain/ClusterX)**: A Python-based algorithmic trading bot implementing the Smart Money Concept (SMC) strategy. It leverages libraries like **NumPy** and **Pandas** for data processing and analysis, enabling efficient trade execution based on market patterns. *(Work in progress 🚧: Currently optimizing performance and adding visualization features.)*
-- **[Skyjo Helper](https://github.com/enzoblain/SkyjoHelper)**: An intelligent app designed to enhance the Skyjo gaming experience. It provides strategic tools to analyze cards, estimate probabilities, and optimize decisions in real-time. With an intuitive interface and customizable features, it helps players improve their chances of success while automating game management and offering performance stats. (Work in progress 🚧: Currently developing advanced analysis tools and multiplayer mode.)
+- **[CandlePy](https://github.com/enzoblain/CandlePy)**: An innovative app tailored to elevate the trading experience. It provides powerful visualization tools to generate detailed trading graphics, track market trends, and analyze performance metrics in real-time. With an intuitive design and customizable features, it empowers users to make informed decisions and optimize their strategies
 
 Feel free to check them out and leave feedback!  
 
