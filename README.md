@@ -19,6 +19,7 @@ Here are some of the projects I've been working on:
 
 - **[ClusterX](https://github.com/enzoblain/ClusterX)**: A Python-based algorithmic trading bot implementing the Smart Money Concept (SMC) strategy. It leverages libraries like **NumPy** and **Pandas** for data processing and analysis, enabling efficient trade execution based on market patterns.
 - **[CandlePy](https://github.com/enzoblain/CandlePy)**: An innovative app tailored to elevate the trading experience. It provides powerful visualization tools to generate detailed trading graphics, track market trends, and analyze performance metrics in real-time. With an intuitive design and customizable features, it empowers users to make informed decisions and optimize their strategies
+- **[LinearASM](https://github.com/enzoblain/LinearASM)**: A linear regression algorithm implemented in assembly language. This project demonstrates the power and efficiency of low-level programming in performing statistical computations. It serves as an educational resource for understanding machine learning fundamentals and optimizing performance-critical applications.
 
 Feel free to check them out and leave feedback!  
 
