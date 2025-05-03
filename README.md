@@ -11,7 +11,7 @@ I leverage technology to analyze financial markets, automate processes, and push
 ## 🔥 Current Focus  
 - 📈 **Developing and optimizing trading algorithms** to analyze market trends.  
 - 🧠 **Diving into AI & Machine Learning**, applying them to financial data.  
-- 🛠️ **Mastering low-level programming with C** to improve performance and efficiency.  
+- 🛠️ **Mastering programming with Rust** to improve performance and efficiency.  
 
 ## ⚡ Let's Connect!  
 I’m always open to discussions, collaborations, and feedback. Feel free to check out my repositories and reach out! 🚀  
