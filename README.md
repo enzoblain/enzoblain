@@ -1,17 +1,21 @@
-# 🚀 Enzo Blain  
+# 🚀 Enzo Blain
 
-💻 **18-year-old computer science student** passionate about **mathematics, coding, and trading**.  
-I leverage technology to analyze financial markets, automate processes, and push the limits of algorithmic trading.  
+💻 **19 years old computer science student** passionate about **mathematics, software engineering, and algorithmic trading**.  
+I leverage technology to solve complex problems, automate processes, and explore innovative approaches in software development and trading.
+
+## 🔹 Tech Stack  
+- **Systems & Backend:** Rust, PHP, SQL, C/C++, Symfony  
+- **APIs:** REST, GraphQL  
+- **Web Development:** JavaScript, HTML, CSS, React  
+- **Data Science & Prototyping:** Python (NumPy, Pandas, Matplotlib)  
 
 ## 🔹 About Me  
-- Passionate about **data-driven decision-making** and **financial algorithms**.  
-- Strong foundation in **C and Python**, with expertise in **NumPy**, **Pandas**, and **Matplotlib**.  
-- Constantly exploring new **programming paradigms** and **advanced algorithms**.  
+Driven by a love for **data-driven decision-making** and **financial algorithms**, I’m always exploring new programming paradigms and advanced algorithms. I enjoy building efficient solutions and continuously expanding my expertise.
 
-## 🔥 Current Focus  
-- 📈 **Developing and optimizing trading algorithms** to analyze market trends.  
-- 🧠 **Diving into AI & Machine Learning**, applying them to financial data.  
-- 🛠️ **Mastering programming with Rust** to improve performance and efficiency.  
+## 🔥 Current Projects & Learning  
+- 📊 Developing **Paragon**: a Smart Money Concept trading toolkit in Rust for live trading, backtesting, and AI-powered strategies  
+- 🧠 Expanding my knowledge in AI and Machine Learning  
+- 🛠️ Deepening mastery of Rust for performance and reliability
 
-## ⚡ Let's Connect!  
-I’m always open to discussions, collaborations, and feedback. Feel free to check out my repositories and reach out! 🚀  
+## ⚡ Let’s Connect!  
+Open to new ideas, collaborations, and feedback. Check out my repositories or reach out—let’s build something great together! 🚀
