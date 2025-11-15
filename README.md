@@ -17,6 +17,7 @@ I leverage technology to solve complex problems, automate processes, and explore
 ## 🔹 About Me
 
 Driven by a love for **decentralization** and **advanced algorithms**, I’m always exploring new programming paradigms, particularly in the realm of **peer-to-peer (P2P) systems**. I enjoy building efficient, autonomous, and private solutions and continuously expanding my expertise in this field.
+
 ---
 
 ## 🔥 Core Project — Nebula
